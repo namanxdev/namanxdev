@@ -10,7 +10,7 @@
 ## 🔥 What I'm Working On:
 - **AI Projects:** To gain hands-on experience for an AI internship.
 - **Finance Tracker App (FinTrack):** React, Tailwind, Zustand/Redux, Charts.
-- **Hotel & Restaurant Booking App:** MERN stack project.
+- **Online Chat platform App:** MERN stack project which uses websockets.
 - **TrailBlaze:** Interactive learning platform built with Vite + React, Next.js, Django, FastAPI.
 - **Mastering Next.js:** Before diving into DevOps.
 
