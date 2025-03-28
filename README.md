@@ -1,10 +1,10 @@
 # Hi there, I'm Naman! 👋
 
 🚀 **Aspiring AI Engineer | Full-Stack Developer**  
-🎯 **Goal:** Secure a high-paying remote AI job & an AI internship before my 7th semester.  
+ 
 💻 **Tech Stack:** MERN | Django | FastAPI | PostgreSQL | Redis | Tailwind CSS | Zustand/Redux  
 🤖 **AI & ML:** NLP | NLTK | Naive Bayes | WordNet | Custom NLP Pipelines  
-🧠 **DSA:** Advanced DSA in C++ | 1700 LeetCode Rating | 400+ Problems Solved  
+🧠 **DSA:** Advanced DSA in C++ | 1700 LeetCode Rating | 500+ Problems Solved  
 🎓 **Education:** 3rd Year CS (AI & ML Specialization) | SIH 2024 Finalist  
 
 ## 🔥 What I'm Working On:
