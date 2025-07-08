@@ -5,7 +5,7 @@
 💻 **Tech Stack:** MERN | Django | FastAPI | PostgreSQL | Redis | Tailwind CSS | Zustand/Redux  
 🤖 **AI & ML:** NLP | NLTK | Naive Bayes | WordNet | Custom NLP Pipelines  
 🧠 **DSA:** Advanced DSA in C++ | 1700 LeetCode Rating | 500+ Problems Solved  
-🎓 **Education:** 3rd Year CS (AI & ML Specialization) | SIH 2024 Finalist  
+🎓 **Education:** 4th Year CS (AI & ML Specialization) | SIH 2024 Finalist  
 
 ## 🔥 What I'm Working On:
 - **AI Projects:** To gain hands-on experience for an AI internship.
@@ -26,8 +26,10 @@
 - **Deepening AI/ML Knowledge**
 
 ## 💡 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/naman411/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/namanxdev)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/naman_411)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/naman_411/)  
+🌐 **Portfolio:** [namangupta.live](https://www.namangupta.live/)
 
 ⚡ **"Learning by building. Scaling by solving."** 🚀
