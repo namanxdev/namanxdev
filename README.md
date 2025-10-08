@@ -45,7 +45,8 @@
 
 ## 🏆 Achievements
 
-- **Smart India Hackathon 2024 – Finalist** 🏅 *(Top 5% out of 30,000+ teams)*  
+- **Smart India Hackathon 2024 – Finalist** 🏅 *(Top 5% out of 30,000+ teams)*
+- **Nasa Space Apps Challenge Hackathon 2025 – Winner** 🏅  *(Regionals)* 
 - **LeetCode 1700+ Rating** 💻 *(Top 10% globally)*  
 - **Code Clash 2024 – Runner-up** 🥈  
 - **Code Warrior 2023 – Winner** 🥇  
