@@ -1,47 +1,44 @@
 # Naman Gupta
 
-AI engineer building agent infrastructure and RAG systems that run in production, not in a notebook.
+AI/product engineer building observable agent systems, retrieval pipelines, and developer tools.
 
-Remote (IST) · Open to AI engineering roles at early-stage AI-native startups
+India (IST) · Available immediately for remote B2B AI/Product Engineering contracts
 
-[Portfolio](https://namangupta.dev) · [GitHub](https://github.com/namanxdev) · [LinkedIn](https://linkedin.com/in/naman411) · [Resume](https://drive.google.com/file/d/16KR-Dku2dgBfz6Q6jVrUn4MkbH5tA_gs/view?usp=sharing) · [naman@namangupta.dev](mailto:naman@namangupta.dev)
+[Portfolio](https://namangupta.dev) · [Resume](https://drive.google.com/file/d/16KR-Dku2dgBfz6Q6jVrUn4MkbH5tA_gs/view?usp=sharing) · [LinkedIn](https://linkedin.com/in/naman411) · [Email](mailto:naman@namangupta.dev)
 
----
+## Selected work
 
-### Currently
+### [MCPHub](https://github.com/namanxdev/MCPHub) — developer tooling for MCP
 
-- Building AI tooling and backend systems at **Oldowan Innovations**
-- Contracting on retrieval infrastructure at **Infradock.ai**
+[Live](https://mcp-hub-pi.vercel.app/) · [Docs](https://mcp-hub-pi.vercel.app/docs) · [npm agent](https://www.npmjs.com/package/@naman_411/mcphub-agent)
 
----
+- Test MCP servers through schema-generated forms and inspect raw JSON-RPC over SSE, Streamable HTTP, and stdio.
+- Track P50/P95/P99 latency, emit JSON/JUnit results for CI, and detect OAuth issues, tool poisoning, and schema drift.
 
-### Selected work
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `MCP SDK`
 
-**[AgentMesh](https://github.com/namanxdev/agentmesh)** — [live](https://agentmesh-two.vercel.app)
-LangGraph-native multi-agent orchestration with consequence-weighted human-in-the-loop gates and typed state handoffs between agents. Cut failed handoffs by 40% versus an ungated pipeline.
-`LangGraph` `FastAPI` `Next.js` `WebSockets`
+### [AgentMesh](https://github.com/namanxdev/agentmesh) — visual multi-agent orchestration
 
-**[MCPHub](https://github.com/namanxdev/mcphub)** — [live](https://mcp-hub-pi.vercel.app)
-Observability for MCP servers: P50/P95/P99 latency tracking, schema drift detection, a JSON-RPC protocol inspector, a CI/CD CLI, and an npm package (`@naman_411/mcphub-agent`) for automated health checks.
-`Next.js` `Drizzle ORM` `Neon` `NextAuth`
+[Live](https://agentmesh-two.vercel.app/)
 
-**RAG pipeline rebuild — Infradock.ai**
-Took a production retrieval system from 55% to 95%+ precision by replacing naive chunking with clause-level chunking and cross-encoder reranking. Runs 500+ queries/day.
-`Python` `pgvector` `FastAPI`
+- Build sequential, conditional, and parallel agent workflows on a visual DAG canvas.
+- Inspect typed WebSocket events, tool calls, state transitions, and human-in-the-loop approvals in real time.
 
----
+`Python` `FastAPI` `Next.js` `WebSockets` `PostgreSQL` `MCP`
 
-### Stack
 
-Python, TypeScript · LangGraph, LangChain · FastAPI, Node.js · Next.js, React · Postgres, pgvector, Qdrant · Docker, Redis, WebSockets
+## Experience
 
----
+- **AI Engineer Intern · Infradock.ai** *(Jan 2026–Present)* — improved retrieval precision from 55% to 95%+ using clause-aware chunking and cross-encoder reranking; stress-tested across 500+ queries.
+- **Software Engineer Intern · Oldowan Innovations** *(Oct 2025–Jan 2026)* — built Django matching APIs and Celery/Redis notification infrastructure for Zingles, a live consumer application.
+- **Software Engineer Intern · Yantram Medtech** *(Jul–Oct 2025)* — built Node.js/Express clinical APIs with JWT/RBAC and reduced PostgreSQL and MongoDB query latency by 25% through indexing and query restructuring.
+## Core stack
 
-### Recognition
+Python, TypeScript · FastAPI, Django, Node.js · LangGraph, LangChain, RAG, MCP · Next.js, React · PostgreSQL, Qdrant, pgvector, Redis · Docker, AWS
 
-- NASA Space Apps Challenge 2025 — Regional Winner, Global Top 1%
-- Smart India Hackathon 2024 — Grand Finalist (top 5% of 30,000+ teams)
+## Recognition
 
----
+- NASA Space Apps Challenge 2025 — Regional Winner and Global Nominee
+- Smart India Hackathon 2024 — Grand Finalist
 
 *B.Tech CSE (AI/ML), OIST Bhopal — 2026*
