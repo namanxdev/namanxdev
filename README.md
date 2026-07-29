@@ -4,7 +4,7 @@ AI/product engineer building observable agent systems, retrieval pipelines, and 
 
 India (IST) · Available immediately for remote B2B AI/Product Engineering contracts
 
-[Portfolio](https://namangupta.dev) · [Resume](https://drive.google.com/file/d/16KR-Dku2dgBfz6Q6jVrUn4MkbH5tA_gs/view?usp=sharing) · [LinkedIn](https://linkedin.com/in/naman411) · [Email](mailto:naman@namangupta.dev)
+[Portfolio](https://namangupta.dev) · [Resume](https://drive.google.com/file/d/1DyfBIFV-uSdCoi9iPTCC0beG6Dsk18E7/view?usp=sharing) · [LinkedIn](https://linkedin.com/in/naman411) · [Email](mailto:naman@namangupta.dev)
 
 ## Selected work
 
