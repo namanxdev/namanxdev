@@ -1,44 +1,23 @@
 # Naman Gupta
 
-AI/product engineer building observable agent systems, retrieval pipelines, and developer tools.
+AI Systems Engineer at [Infradock.ai](https://infradock.ai). I work on retrieval quality and agent reliability — the measurement layer that catches RAG failures before users do.
 
-India (IST) · Available immediately for remote B2B AI/Product Engineering contracts
+Bhopal, India (IST) · [namangupta.dev](https://namangupta.dev) · [LinkedIn](https://linkedin.com/in/naman411) · [naman@namangupta.dev](mailto:naman@namangupta.dev)
 
-[Portfolio](https://namangupta.dev) · [Resume](https://drive.google.com/file/d/1DyfBIFV-uSdCoi9iPTCC0beG6Dsk18E7/view?usp=sharing) · [LinkedIn](https://linkedin.com/in/naman411) · [Email](mailto:naman@namangupta.dev)
+---
 
-## Selected work
+**[MCPHub](https://github.com/namanxdev/MCPHub)** — Postman for MCP servers. Raw JSON-RPC inspection over stdio, SSE, and Streamable HTTP; P50/P95/P99 latency; JUnit output for CI. Catches schema drift and tool poisoning.
+→ [Try it](https://mcp-hub-pi.vercel.app/) · [docs](https://mcp-hub-pi.vercel.app/docs) · [npm](https://www.npmjs.com/package/@naman_411/mcphub-agent)
 
-### [MCPHub](https://github.com/namanxdev/MCPHub) — developer tooling for MCP
+**[AgentMesh](https://github.com/namanxdev/agentmesh)** — Visual multi-agent orchestration. DAG canvas for sequential, conditional, and parallel flows, with typed WebSocket events exposing every tool call and approval gate live.
+→ [Try it](https://agentmesh-two.vercel.app/)
 
-[Live](https://mcp-hub-pi.vercel.app/) · [Docs](https://mcp-hub-pi.vercel.app/docs) · [npm agent](https://www.npmjs.com/package/@naman_411/mcphub-agent)
+**[ReasonFlow](https://github.com/namanxdev/ReasonFlow)** — Inbox agent. LangGraph decision loop over hybrid retrieval on pgvector, acting on mail against calendar and CRM context.
 
-- Test MCP servers through schema-generated forms and inspect raw JSON-RPC over SSE, Streamable HTTP, and stdio.
-- Track P50/P95/P99 latency, emit JSON/JUnit results for CI, and detect OAuth issues, tool poisoning, and schema drift.
+---
 
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `MCP SDK`
+At Infradock, rebuilt Qdrant retrieval with clause-aware chunking and cross-encoder reranking: precision ~55% → 95%+ on an internal evaluation dataset across 500+ queries. Before that, backend work at Oldowan Innovations and Yantram Medtech.
 
-### [AgentMesh](https://github.com/namanxdev/agentmesh) — visual multi-agent orchestration
+`Python` `TypeScript` · `LangGraph` `MCP` `FastAPI` · `Qdrant` `pgvector` `PostgreSQL` `Redis` · `Next.js` `Docker`
 
-[Live](https://agentmesh-two.vercel.app/)
-
-- Build sequential, conditional, and parallel agent workflows on a visual DAG canvas.
-- Inspect typed WebSocket events, tool calls, state transitions, and human-in-the-loop approvals in real time.
-
-`Python` `FastAPI` `Next.js` `WebSockets` `PostgreSQL` `MCP`
-
-
-## Experience
-
-- **AI Engineer Intern · Infradock.ai** *(Jan 2026–Present)* — improved retrieval precision from 55% to 95%+ using clause-aware chunking and cross-encoder reranking; stress-tested across 500+ queries.
-- **Software Engineer Intern · Oldowan Innovations** *(Oct 2025–Jan 2026)* — built Django matching APIs and Celery/Redis notification infrastructure for Zingles, a live consumer application.
-- **Software Engineer Intern · Yantram Medtech** *(Jul–Oct 2025)* — built Node.js/Express clinical APIs with JWT/RBAC and reduced PostgreSQL and MongoDB query latency by 25% through indexing and query restructuring.
-## Core stack
-
-Python, TypeScript · FastAPI, Django, Node.js · LangGraph, LangChain, RAG, MCP · Next.js, React · PostgreSQL, Qdrant, pgvector, Redis · Docker, AWS
-
-## Recognition
-
-- NASA Space Apps Challenge 2025 — Regional Winner and Global Nominee
-- Smart India Hackathon 2024 — Grand Finalist
-
-*B.Tech CSE (AI/ML), OIST Bhopal — 2026*
+<sub>NASA Space Apps 2025 Regional Winner · SIH 2024 Grand Finalist · B.Tech CSE (AI/ML), OIST Bhopal 2026</sub>
